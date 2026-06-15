@@ -1,5 +1,7 @@
 # Agentic MLOps Foundry
 
+> Legacy repository name: `TEXT-Utils`. This project now hosts the agentic MLOps foundry portfolio work.
+
 Production template for deploying agentic AI services with API boundaries, evaluation gates, CI, Docker and operational runbooks.
 
 This repository demonstrates the engineering surface a CTO expects around AI agents: not only prompts, but testability, deployment, monitoring hooks and rollback-friendly behavior.
